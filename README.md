@@ -1,6 +1,5 @@
 # ejemplo
 esto es un ejemplo de un reposirorio 
-
-
-probando.
-
+probando modificaciones desde github.
+Jazmin probando
+gabi  probando
